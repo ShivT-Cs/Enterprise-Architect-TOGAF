@@ -1,0 +1,65 @@
+Software Architect Roadmap.
+
+multiple areas (Programming , Architectural Pattern, Design Pattern, Cloud, API, Security etc)
+
+From <https://www.youtube.com/watch?v=6iyNWIsLeHs> 
+
+Proficiency  in one of the programming language
+Infrastructure
+Architectural patterns
+Event-Driven mechanism
+Container & orchestration.
+SQL-
+SQL & Nosql
+Mongo & MS SQL.
+Microservices & distributed systems
+Monitoring tools.
+Code analysis Tools.
+APIs- REST, Soup, GraphQL
+Messaging services- Kafka.
+
+Design principle, pattern, 
+Domain driven design.
+
+Distributed framework, dash processing (spark), real- time data processing (spark-streaming).
+
+
+Security-
+At risk, In motion
+Authentication, encryption, TLS, open connect, Oauth, JWT, 
+
+
+
+System design-
+
+Distributed system.
+	1) Distributed processing- process larger amounts of data.
+	2) Distributed storage -store the data
+
+Scalability
+	Vertical
+	Horizontal
+	
+Consistency
+	Weak
+	Strong
+	Eventual 
+	
+Availability
+	
+Reliability
+	Replication & Sharding, Caching 
+	
+	
+CORE components
+API servers & Gateway (rate limiting, auth)
+Databases - 
+		SQL & NoSQL (key-value pair, document oriented DB, Vertor DB)
+		Mongo & MS SQL.
+
+CDN
+	
+
+ 
+
+
